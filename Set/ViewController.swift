@@ -94,11 +94,12 @@ class ViewController: UIViewController {
 
 extension String {
     static func *(left: String, right: Int) -> String{
-        var stringToShow = String()
+        var stringToShow = left
         if right != 0 {
-            for _ in 1...abs(right) {
-                stringToShow += left
+            for i in 1...abs(right) {
+                if i == right {break}
                 stringToShow += "\n"
+                stringToShow += left
             }
         } else {
             return ""
