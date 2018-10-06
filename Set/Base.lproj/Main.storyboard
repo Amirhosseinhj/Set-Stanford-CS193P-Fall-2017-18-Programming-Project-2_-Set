@@ -4,6 +4,7 @@
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
+        <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="Stack View standard spacing" minToolsVersion="9.0"/>
@@ -29,7 +30,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="32A-Tk-sBv" secondAttribute="height" multiplier="5:8" id="lbV-XV-dTH"/>
                                                 </constraints>
-                                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                                 <state key="normal" title="▲"/>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gF2-Cj-uWE">
@@ -37,7 +38,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="gF2-Cj-uWE" secondAttribute="height" multiplier="5:8" id="2tj-1A-Zem"/>
                                                 </constraints>
-                                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                                 <state key="normal" title="▲"/>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rXe-Ax-JXI">
@@ -45,7 +46,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="rXe-Ax-JXI" secondAttribute="height" multiplier="5:8" id="AER-ds-B6S"/>
                                                 </constraints>
-                                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                                 <state key="normal" title="▲"/>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ghC-te-ygh">
@@ -53,7 +54,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="ghC-te-ygh" secondAttribute="height" multiplier="5:8" id="nur-Js-YZr"/>
                                                 </constraints>
-                                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                                 <state key="normal" title="▲"/>
                                             </button>
                                         </subviews>
@@ -66,7 +67,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="PzH-3m-Cp7" secondAttribute="height" multiplier="5:8" id="a1E-n9-jz7"/>
                                                 </constraints>
-                                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                                 <state key="normal" title="▲"/>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0ak-bo-zGc">
@@ -74,7 +75,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="0ak-bo-zGc" secondAttribute="height" multiplier="5:8" id="2KL-cO-hgz"/>
                                                 </constraints>
-                                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                                 <state key="normal" title="▲"/>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sh7-oH-NtL">
@@ -82,7 +83,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="sh7-oH-NtL" secondAttribute="height" multiplier="5:8" id="9QT-6Q-wc6"/>
                                                 </constraints>
-                                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                                 <state key="normal" title="▲"/>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="V1j-0T-z2G">
@@ -90,7 +91,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="V1j-0T-z2G" secondAttribute="height" multiplier="5:8" id="Wrn-Bf-h5x"/>
                                                 </constraints>
-                                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                                 <state key="normal" title="▲"/>
                                             </button>
                                         </subviews>
@@ -103,7 +104,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="dr0-lK-GsK" secondAttribute="height" multiplier="5:8" id="gSY-15-fwf"/>
                                                 </constraints>
-                                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                                 <state key="normal" title="▲"/>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tir-Mi-DTq">
@@ -111,7 +112,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="tir-Mi-DTq" secondAttribute="height" multiplier="5:8" id="zzh-X3-Tds"/>
                                                 </constraints>
-                                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                                 <state key="normal" title="▲"/>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hFh-x6-XTW">
@@ -119,7 +120,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="hFh-x6-XTW" secondAttribute="height" multiplier="5:8" id="az9-51-5le"/>
                                                 </constraints>
-                                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                                 <state key="normal" title="▲"/>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gzI-pt-F9I">
@@ -127,7 +128,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="gzI-pt-F9I" secondAttribute="height" multiplier="5:8" id="3LA-hr-Nvo"/>
                                                 </constraints>
-                                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                                 <state key="normal" title="▲"/>
                                             </button>
                                         </subviews>
@@ -140,7 +141,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="xPR-H7-ZSW" secondAttribute="height" multiplier="5:8" id="xWb-di-9gn"/>
                                                 </constraints>
-                                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                                 <state key="normal" title="▲"/>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Hnk-xU-WDH">
@@ -148,7 +149,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="Hnk-xU-WDH" secondAttribute="height" multiplier="5:8" id="nZS-vW-nbP"/>
                                                 </constraints>
-                                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                                 <state key="normal" title="▲"/>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ruf-tH-NY8">
@@ -156,7 +157,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="ruf-tH-NY8" secondAttribute="height" multiplier="5:8" id="eNS-k7-0HZ"/>
                                                 </constraints>
-                                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                                 <state key="normal" title="▲"/>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1Wa-d1-kKs">
@@ -164,7 +165,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="1Wa-d1-kKs" secondAttribute="height" multiplier="5:8" id="MS0-ub-88V"/>
                                                 </constraints>
-                                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                                 <state key="normal" title="▲"/>
                                             </button>
                                         </subviews>
@@ -177,7 +178,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="Eov-e6-byW" secondAttribute="height" multiplier="5:8" id="eep-De-CKZ"/>
                                                 </constraints>
-                                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                                 <state key="normal" title="▲"/>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GlZ-np-Agf">
@@ -185,7 +186,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="GlZ-np-Agf" secondAttribute="height" multiplier="5:8" id="35e-VZ-kek"/>
                                                 </constraints>
-                                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                                 <state key="normal" title="▲"/>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cIh-An-Uvb">
@@ -193,7 +194,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="cIh-An-Uvb" secondAttribute="height" multiplier="5:8" id="HMr-uJ-WiZ"/>
                                                 </constraints>
-                                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                                 <state key="normal" title="▲"/>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jUY-Tx-PDs">
@@ -201,7 +202,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="jUY-Tx-PDs" secondAttribute="height" multiplier="5:8" id="QCT-Cm-gns"/>
                                                 </constraints>
-                                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                                 <state key="normal" title="▲"/>
                                             </button>
                                         </subviews>
@@ -214,7 +215,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="6TM-co-9jr" secondAttribute="height" multiplier="5:8" id="xQQ-he-DEu"/>
                                                 </constraints>
-                                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                                 <state key="normal" title="▲"/>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="UPb-qj-EXf">
@@ -222,7 +223,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="UPb-qj-EXf" secondAttribute="height" multiplier="5:8" id="E8Q-nd-BZU"/>
                                                 </constraints>
-                                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                                 <state key="normal" title="▲"/>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jOd-Ya-uuk">
@@ -230,7 +231,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="jOd-Ya-uuk" secondAttribute="height" multiplier="5:8" id="iiT-dy-pjF"/>
                                                 </constraints>
-                                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                                 <state key="normal" title="▲"/>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Bt3-ek-T89">
@@ -238,7 +239,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="Bt3-ek-T89" secondAttribute="height" multiplier="5:8" id="l6U-eq-dxk"/>
                                                 </constraints>
-                                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                                 <state key="normal" title="▲"/>
                                             </button>
                                         </subviews>

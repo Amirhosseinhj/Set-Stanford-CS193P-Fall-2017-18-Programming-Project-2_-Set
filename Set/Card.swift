@@ -16,11 +16,11 @@ struct Card {
     
     enum Symbol {
         case triangle
-        case squar
+        case square
         case circle
         
         static var all: [Symbol] {
-            return [Symbol.triangle, .squar, .circle]
+            return [Symbol.triangle, .square, .circle]
         }
     }
     enum Color {
